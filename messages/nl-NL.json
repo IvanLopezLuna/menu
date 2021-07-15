@@ -44,7 +44,7 @@
   "admin/editor.menu.item.params.href.title": "href",
   "admin/editor.menu.item.params.noFollow.title": "nofollow-attribuut",
   "admin/editor.menu.item.params.tagTitle.title": "titel attribuut",
-  "admin/editor.menu.submenu.title": "Submenu",
+  "admin/editor.menu.submenu.title": "Submenu", 
   "admin/editor.menu.additionalDef.title": "Aanvullende definitie",
   "admin/editor.menu.def.none": "Geen",
   "admin/editor.menu.def.title": "Titel",
